@@ -4,8 +4,8 @@ This is a curated list of awesome resources for MIDI. Each category contains a l
 
 ## Table of Contents
 
-- [Web MIDI Controllers](#web-midi-controllers)
 - [Hardware MIDI Controllers](#hardware-midi-controllers)
+- [Web MIDI Controllers](#web-midi-controllers)
 - [DAWs & Tools](#daws-and-tools)
 - [MIDI File Sources](#midi-file-sources)
 - [Online Courses](#online-courses)
@@ -20,10 +20,6 @@ This is a curated list of awesome resources for MIDI. Each category contains a l
 - [Contributions](#contributions)
 - [License](#license)
 
-## Web MIDI Controllers
-
-- [webmidicontroller.com](http://webmidicontroller.com/) 🎛️ - An online web MIDI controller that can connect to any MIDI device.
-
 ## Hardware MIDI Controllers
 
 - [Akai Professional MPK Mini MKII](https://www.akaipro.com/mpk-mini-mkii) 🎹 - A compact MIDI controller with 25 velocity-sensitive keys, 8 backlit MPC-style pads, and 8 assignable knobs.
@@ -33,6 +29,10 @@ This is a curated list of awesome resources for MIDI. Each category contains a l
 - [Alesis V25](https://www.alesis.com/products/browse/category/midi-controllers.html) 🎛️ - A full-sized MIDI keyboard controller with 25 velocity-sensitive keys, 8 illuminated pads, and 4 assignable knobs.
 - [M-Audio Oxygen 25 MK IV](https://www.m-audio.com/category/keyboards-and-controllers.html) 🎹 - A compact MIDI keyboard controller with 25 velocity-sensitive keys, 8 pads, and 8 assignable knobs.
 - [Nektar Impact LX25+](https://nektartech.com/impact-lx25/) 🎵 - A compact MIDI keyboard controller with 25 velocity-sensitive keys, 8 pads, and 8 knobs.
+
+## Web MIDI Controllers
+
+- [webmidicontroller.com](http://webmidicontroller.com/) 🎛️ - An online web MIDI controller that can connect to any MIDI device.
 
 ## DAWs and Tools
 
@@ -64,18 +64,20 @@ This is a curated list of awesome resources for MIDI. Each category contains a l
 
 ## Blogs and Articles
 
-- [MIDI.org](https://www.midi.org/) 🌐 - The official website of the MIDI Manufacturers Association, featuring news, articles, tutorials, and resources on MIDI technology.
-- [The MIDI Association Blog](https://www.midi.org/insights/) 📝 - The official blog of the MIDI Manufacturers Association, featuring posts on MIDI technology, software, hardware, and applications.
+- [MIDI.org](https://www.midi.org/) 🌐 - The official website of the MIDI Association, featuring news, articles, tutorials, and resources on MIDI technology.
+- [The MIDI Association Blog](https://www.midi.org/insights/) 📝 - The official blog of the MIDI Association, featuring posts on MIDI technology, software, hardware, and applications.
 - [MIDI Lifestyle](http://midilifestyle.com/) 💻 - A blog on MIDI technology, production techniques, and equipment reviews.
 - [Synthtopia](https://www.synthtopia.com/) 💿 - A blog on electronic music technology, featuring articles, news, and reviews on MIDI instruments and software.
 - [Sweetwater Sound](https://www.sweetwater.com/insync/?s=midi) 🎤 - A blog on pro audio and music technology, featuring articles, reviews, and tutorials on MIDI equipment and software.
+- [MIDI 2.0 Developer Information](https://midi.org/developer-white-papers) 📝 - Articles to help developers take advantage of MIDI.
+
 
 ## Podcasts
 
 
 ## Organizations
 
-- [MIDI Manufacturers Association](https://www.midi.org/) 🏢 - An international organization focused on the development of MIDI technology and standards.
+- [MIDI Association](https://www.midi.org/) 🏢 - An international organization focused on the development of MIDI technology and standards.
 
 ## Conferences and Events
 
@@ -84,7 +86,10 @@ This is a curated list of awesome resources for MIDI. Each category contains a l
 
 ## Github WebMIDI API Projects
 
+- [Web MIDI API Spec](https://developer.mozilla.org/en-US/docs/Web/API/Web_MIDI_API) 🔊 - Official description of the browser interface.
+- [WebMIDI.JS](https://webmidijs.org/) 🔊 - A JavaScript helper library for the Web MIDI API.
 - [MIDI.JS](https://github.com/mudcube/MIDI.js) 🔊 - A JavaScript MIDI player and sequencer that uses the Web Audio API for low-latency sound generation.
+- [Tonejs MIDI](https://github.com/Tonejs/Midi) 🔊 - A JavaScript library to read and write MIDI files.
 - [music21j](https://github.com/cuthbertLab/music21j) 🎷 - A JavaScript port of the music21 Python library that allows developers to work with musical notation and MIDI data in the browser.
 
 ## Other Related Lists
