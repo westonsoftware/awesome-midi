@@ -92,6 +92,7 @@ This is a curated list of awesome resources for MIDI. Each category contains a l
 - [MIDI.JS](https://github.com/mudcube/MIDI.js) 🔊 - A JavaScript MIDI player and sequencer that uses the Web Audio API for low-latency sound generation.
 - [Tonejs MIDI](https://github.com/Tonejs/Midi) 🔊 - A JavaScript library to read and write MIDI files.
 - [music21j](https://github.com/cuthbertLab/music21j) 🎷 - A JavaScript port of the music21 Python library that allows developers to work with musical notation and MIDI data in the browser.
+- [MIDI Tools](https://github.com/chen9788/midi-tools) 🔊 - A standalone MIDI file parser, Web Audio instrument presets, and note reference data, used by mp3frommidi.com.
 
 ## Other Related Lists
 
