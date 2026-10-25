@@ -45,6 +45,7 @@ This is a curated list of awesome resources for MIDI. Each category contains a l
 - [Studio One](https://www.presonus.com/products/studio-one) 🎬 - A DAW with intuitive MIDI editing and a wide range of instruments and effects.
 - [GarageBand](https://www.apple.com/mac/garageband/) 🎤 - A free DAW with basic MIDI and audio recording capabilities, suitable for beginners.
 - [Reason](https://www.reasonstudios.com/en/reason) 🎧 - A software for music creation and production, offering MIDI sequencing, audio recording, and virtual instruments.
+- [FIELDNOTE](https://midifromsound.com/) 🎼 - Browser-based MP3/WAV-to-MIDI conversion with local audio processing.
 
 ## MIDI File Sources
 
