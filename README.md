@@ -34,6 +34,7 @@ This is a curated list of awesome resources for MIDI. Each category contains a l
 
 - [webmidicontroller.com](http://webmidicontroller.com/) 🎛️ - An online web MIDI controller that can connect to any MIDI device.
 - [bipluk](https://bipluk.com/) 🎹 - A browser-native Web MIDI librarian for auditioning, backing up, and restoring SysEx patch banks on vintage and modern hardware synthesizers with zero drivers.
+- [Klaviero](https://klaviero.com/) 🎹 - A browser piano game for MIDI keyboards: falling notes, 4,296 classical charts and every note graded against what you play.
 
 ## DAWs and Tools
 
@@ -46,6 +47,7 @@ This is a curated list of awesome resources for MIDI. Each category contains a l
 - [GarageBand](https://www.apple.com/mac/garageband/) 🎤 - A free DAW with basic MIDI and audio recording capabilities, suitable for beginners.
 - [Reason](https://www.reasonstudios.com/en/reason) 🎧 - A software for music creation and production, offering MIDI sequencing, audio recording, and virtual instruments.
 - [FIELDNOTE](https://midifromsound.com/) 🎼 - Browser-based MP3/WAV-to-MIDI conversion with local audio processing.
+- [MP3 to MIDI Tool](https://mp3tomiditool.com/) 🎼 - A free browser-based tool that converts clear monophonic MP3 and WAV melodies into downloadable MIDI files without uploading audio.
 
 ## MIDI File Sources
 
@@ -93,6 +95,7 @@ This is a curated list of awesome resources for MIDI. Each category contains a l
 - [MIDI.JS](https://github.com/mudcube/MIDI.js) 🔊 - A JavaScript MIDI player and sequencer that uses the Web Audio API for low-latency sound generation.
 - [Tonejs MIDI](https://github.com/Tonejs/Midi) 🔊 - A JavaScript library to read and write MIDI files.
 - [music21j](https://github.com/cuthbertLab/music21j) 🎷 - A JavaScript port of the music21 Python library that allows developers to work with musical notation and MIDI data in the browser.
+- [MIDI Tools](https://github.com/chen9788/midi-tools) 🔊 - A standalone MIDI file parser, Web Audio instrument presets, and note reference data, used by mp3frommidi.com.
 
 ## Other Related Lists
 
