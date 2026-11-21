@@ -48,6 +48,8 @@ This is a curated list of awesome resources for MIDI. Each category contains a l
 - [Reason](https://www.reasonstudios.com/en/reason) 🎧 - A software for music creation and production, offering MIDI sequencing, audio recording, and virtual instruments.
 - [FIELDNOTE](https://midifromsound.com/) 🎼 - Browser-based MP3/WAV-to-MIDI conversion with local audio processing.
 - [MP3 to MIDI Tool](https://mp3tomiditool.com/) 🎼 - A free browser-based tool that converts clear monophonic MP3 and WAV melodies into downloadable MIDI files without uploading audio.
+- [Plastic MP3 to MIDI](https://plastic.audio/mp3-to-midi/) 🎹 - A free browser-based audio-to-MIDI converter using Spotify's open-source Basic Pitch model, with a piano-roll preview; the audio is not uploaded.
+- [Plastic Voice to MIDI](https://plastic.audio/voice-to-midi/) 🎤 - Hum or sing a melody into the browser and download it as a MIDI file, one voice at a time.
 
 ## MIDI File Sources
 
@@ -55,6 +57,7 @@ This is a curated list of awesome resources for MIDI. Each category contains a l
 - [MIDI Files by Hit Trax](https://www.midi.com.au/) 🎼 - A website offering professional MIDI files in various formats.
 - [MIDI Database](https://www.mididb.com/) 🎹 - A database of MIDI files, searchable by author, genre, and keyword.
 - [Free Midi Files](https://freemidi.org/) 🎵 - A collection of free MIDI files, sorted alphabetically by artist.
+- [Plastic Drum Patterns](https://plastic.audio/drum-patterns/) 🥁 - Free drum patterns by genre, playable in the browser and downloadable as MIDI files.
 
 ## Online Courses
 
