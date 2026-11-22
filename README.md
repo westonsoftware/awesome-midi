@@ -35,6 +35,7 @@ This is a curated list of awesome resources for MIDI. Each category contains a l
 - [webmidicontroller.com](http://webmidicontroller.com/) 🎛️ - An online web MIDI controller that can connect to any MIDI device.
 - [bipluk](https://bipluk.com/) 🎹 - A browser-native Web MIDI librarian for auditioning, backing up, and restoring SysEx patch banks on vintage and modern hardware synthesizers with zero drivers.
 - [Klaviero](https://klaviero.com/) 🎹 - A browser piano game for MIDI keyboards: falling notes, 4,296 classical charts and every note graded against what you play.
+- [GrooveSheet Virtual MIDI Keyboard](https://www.groovesheet.net/tools/midi-keyboard) 🎹 - A free browser keyboard for USB MIDI controllers: piano and 128 General MIDI sounds, recognises popular controllers, and loops and saves what you play as a MIDI file.
 
 ## DAWs and Tools
 
