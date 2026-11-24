@@ -2,42 +2,82 @@
 
 This is a curated list of awesome resources for MIDI. Each category contains a list of relevant resources with a brief description and a web link.
 
+ 
+## Quick Finder
+
+| I want to... | Go to |
+|--------------|--------|
+| Learn MIDI | [Learning](#learning) |
+| Take a course | [Online Courses](#online-courses) |
+| Find books and references | [Books](#books) |
+| Watch tutorials | [Videos](#videos) |
+| Buy a MIDI controller | [Hardware MIDI Controllers](#hardware-midi-controllers) |
+| Use MIDI in the browser | [Web MIDI](#web-midi) |
+| Convert audio to MIDI | [MIDI Utilities](#midi-utilities) |
+| Find MIDI files and patterns | [MIDI File Sources](#midi-file-sources) |
+| Build Web MIDI applications | [Developer Resources](#developer-resources) |
+| Follow MIDI news | [Blogs & Articles](#blogs-and-articles) |
+| Connect with the MIDI community | [Community](#community) |
+
 ## Table of Contents
 
 - [Hardware MIDI Controllers](#hardware-midi-controllers)
-- [Web MIDI Controllers](#web-midi-controllers)
-- [DAWs & Tools](#daws-and-tools)
+  - [Keyboards](#keyboards)
+- [Web MIDI](#web-midi)
+  - [Controllers](#controllers)
+  - [Tools](#tools)
+  - [Games](#games)
+- [DAWs](#daws)
+- [MIDI Utilities](#midi-utilities)
 - [MIDI File Sources](#midi-file-sources)
-- [Online Courses](#online-courses)
-- [Books](#books)
-- [Videos](#videos)
-- [Blogs & Articles](#blogs-and-articles)
-- [Podcasts](#podcasts)
-- [Organizations](#organizations)
-- [Conferences & Events](#conferences-and-events)
-- [Github WebMIDI API Projects](#github-webmidi-api-projects)
+- [Learning](#learning)
+  - [Online Courses](#online-courses)
+  - [Books](#books)
+  - [Videos](#videos)
+  - [Blogs & Articles](#blogs-and-articles)
+  - [Podcasts](#podcasts)
+- [Developer Resources](#developer-resources)
+  - [Specifications](#specifications)
+  - [Libraries & Projects](#libraries-and-projects)
+- [Community](#community)
+  - [Organizations](#organizations)
+  - [Conferences & Events](#conferences-and-events)
 - [Other Related Lists](#other-related-lists)
 - [Contributions](#contributions)
 - [License](#license)
 
-## Hardware MIDI Controllers
+---
+
+# Hardware MIDI Controllers
+
+## Keyboards
 
 - [Akai Professional MPK Mini MKII](https://www.akaipro.com/mpk-mini-mkii) 🎹 - A compact MIDI controller with 25 velocity-sensitive keys, 8 backlit MPC-style pads, and 8 assignable knobs.
 - [Novation Launchkey Mini MK3](https://novationmusic.com/en/keys/launchkey-mini) 🚀 - A mini MIDI keyboard controller with 25 keys, 16 RGB backlit velocity-sensitive pads, and 8 rotary knobs.
 - [Native Instruments Komplete Kontrol M32](https://www.native-instruments.com/en/products/komplete/keyboards/komplete-kontrol-m32/) 🎹 - A compact MIDI keyboard controller with 32 mini-keys, 8 touch-sensitive control knobs, and a touch strip for pitch and modulation.
 - [Arturia Keystep](https://www.arturia.com/products?categories=hybrid-synths) ❤️ - A versatile MIDI controller with a 32-note slim-key keyboard, sequencer, and arpeggiator.
-- [Alesis V25](https://www.alesis.com/products/browse/category/midi-controllers.html) 🎛️ - A full-sized MIDI keyboard controller with 25 velocity-sensitive keys, 8 illuminated pads, and 4 assignable knobs.
+- [Alesis V25](https://www.alesis.com/products/browse/category/midi-controllers.html) 🎹 - A full-sized MIDI keyboard controller with 25 velocity-sensitive keys, 8 illuminated pads, and 4 assignable knobs.
 - [M-Audio Oxygen 25 MK IV](https://www.m-audio.com/category/keyboards-and-controllers.html) 🎹 - A compact MIDI keyboard controller with 25 velocity-sensitive keys, 8 pads, and 8 assignable knobs.
 - [Nektar Impact LX25+](https://nektartech.com/impact-lx25/) 🎵 - A compact MIDI keyboard controller with 25 velocity-sensitive keys, 8 pads, and 8 knobs.
 
-## Web MIDI Controllers
+---
 
-- [webmidicontroller.com](http://webmidicontroller.com/) 🎛️ - An online web MIDI controller that can connect to any MIDI device.
-- [bipluk](https://bipluk.com/) 🎹 - A browser-native Web MIDI librarian for auditioning, backing up, and restoring SysEx patch banks on vintage and modern hardware synthesizers with zero drivers.
-- [Klaviero](https://klaviero.com/) 🎹 - A browser piano game for MIDI keyboards: falling notes, 4,296 classical charts and every note graded against what you play.
+# Web MIDI
+
+## Controllers
+
+- [webmidicontroller.com](http://webmidicontroller.com/) 🎹 - An online web MIDI controller that can connect to any MIDI device.
 - [GrooveSheet Virtual MIDI Keyboard](https://www.groovesheet.net/tools/midi-keyboard) 🎹 - A free browser keyboard for USB MIDI controllers: piano and 128 General MIDI sounds, recognises popular controllers, and loops and saves what you play as a MIDI file.
 
-## DAWs and Tools
+## Tools
+- [bipluk](https://bipluk.com/) 🎹 - A browser-native Web MIDI librarian for auditioning, backing up, and restoring SysEx patch banks on vintage and modern hardware synthesizers with zero drivers.
+
+## Games
+- [Klaviero](https://klaviero.com/) 🎹 - A browser piano game for MIDI keyboards: falling notes, 4,296 classical charts and every note graded against what you play.
+
+---
+
+# DAWs
 
 - [Ableton Live](https://www.ableton.com/) 🔥 - A popular music production software with powerful MIDI and audio editing capabilities.
 - [FL Studio](https://www.image-line.com/fl-studio/) 🙌 - A digital audio workstation with a user-friendly interface and flexible MIDI editing.
@@ -46,13 +86,22 @@ This is a curated list of awesome resources for MIDI. Each category contains a l
 - [Pro Tools](https://www.avid.com/pro-tools) 🛠️ - A powerful DAW for recording, editing, and mixing MIDI and audio.
 - [Studio One](https://www.presonus.com/products/studio-one) 🎬 - A DAW with intuitive MIDI editing and a wide range of instruments and effects.
 - [GarageBand](https://www.apple.com/mac/garageband/) 🎤 - A free DAW with basic MIDI and audio recording capabilities, suitable for beginners.
-- [Reason](https://www.reasonstudios.com/en/reason) 🎧 - A software for music creation and production, offering MIDI sequencing, audio recording, and virtual instruments.
+- [Reason](https://www.reasonstudios.com/en/reason) 🎧 - Music production software offering MIDI sequencing, audio recording, and virtual instruments.
+
+---
+
+# MIDI Utilities
+
+### Audio-to-MIDI Conversion
+
 - [FIELDNOTE](https://midifromsound.com/) 🎼 - Browser-based MP3/WAV-to-MIDI conversion with local audio processing.
 - [MP3 to MIDI Tool](https://mp3tomiditool.com/) 🎼 - A free browser-based tool that converts clear monophonic MP3 and WAV melodies into downloadable MIDI files without uploading audio.
 - [Plastic MP3 to MIDI](https://plastic.audio/mp3-to-midi/) 🎹 - A free browser-based audio-to-MIDI converter using Spotify's open-source Basic Pitch model, with a piano-roll preview; the audio is not uploaded.
 - [Plastic Voice to MIDI](https://plastic.audio/voice-to-midi/) 🎤 - Hum or sing a melody into the browser and download it as a MIDI file, one voice at a time.
 
-## MIDI File Sources
+---
+
+# MIDI File Sources
 
 - [MIDI World](http://www.midiworld.com/) 🌎 - A large collection of MIDI files, arranged by genre and artist.
 - [MIDI Files by Hit Trax](https://www.midi.com.au/) 🎼 - A website offering professional MIDI files in various formats.
@@ -60,15 +109,21 @@ This is a curated list of awesome resources for MIDI. Each category contains a l
 - [Free Midi Files](https://freemidi.org/) 🎵 - A collection of free MIDI files, sorted alphabetically by artist.
 - [Plastic Drum Patterns](https://plastic.audio/drum-patterns/) 🥁 - Free drum patterns by genre, playable in the browser and downloadable as MIDI files.
 
+---
+
+# Learning
+
 ## Online Courses
 
 - [Learn MIDI in a Day](https://www.udemy.com/courses/search/?src=ukw&q=midi) 🎸 - A crash course on MIDI, covering topics such as MIDI sequencing, recording, and editing, offered by Udemy.
 
 ## Books
 
+*Add recommended MIDI books here.*
 
 ## Videos
 
+*Add recommended MIDI video channels and tutorials here.*
 
 ## Blogs and Articles
 
@@ -79,9 +134,29 @@ This is a curated list of awesome resources for MIDI. Each category contains a l
 - [Sweetwater Sound](https://www.sweetwater.com/insync/?s=midi) 🎤 - A blog on pro audio and music technology, featuring articles, reviews, and tutorials on MIDI equipment and software.
 - [MIDI 2.0 Developer Information](https://midi.org/developer-white-papers) 📝 - Articles to help developers take advantage of MIDI.
 
-
 ## Podcasts
 
+*Add recommended MIDI-related podcasts here.*
+
+---
+
+# Developer Resources
+
+## Specifications
+
+- [Web MIDI API Spec](https://developer.mozilla.org/en-US/docs/Web/API/Web_MIDI_API) 🔊 - Official description of the browser interface.
+
+## Libraries and Projects
+
+- [WebMIDI.JS](https://webmidijs.org/) 🔊 - A JavaScript helper library for the Web MIDI API.
+- [MIDI.JS](https://github.com/mudcube/MIDI.js) 🔊 - A JavaScript MIDI player and sequencer that uses the Web Audio API for low-latency sound generation.
+- [Tonejs MIDI](https://github.com/Tonejs/Midi) 🔊 - A JavaScript library to read and write MIDI files.
+- [music21j](https://github.com/cuthbertLab/music21j) 🎷 - A JavaScript port of the music21 Python library that allows developers to work with musical notation and MIDI data in the browser.
+- [MIDI Tools](https://github.com/chen9788/midi-tools) 🔊 - A standalone MIDI file parser, Web Audio instrument presets, and note reference data, used by mp3frommidi.com.
+
+---
+
+# Community
 
 ## Organizations
 
@@ -92,23 +167,20 @@ This is a curated list of awesome resources for MIDI. Each category contains a l
 - [NAMM Show](https://www.namm.org/) 🎸 - The National Association of Music Merchants Show, featuring product showcases, artist performances, and educational sessions.
 - [AES Convention](https://www.aes.org/events/) 🔊 - The Audio Engineering Society Convention, featuring professional development sessions, technical demonstrations, and networking opportunities.
 
-## Github WebMIDI API Projects
+---
 
-- [Web MIDI API Spec](https://developer.mozilla.org/en-US/docs/Web/API/Web_MIDI_API) 🔊 - Official description of the browser interface.
-- [WebMIDI.JS](https://webmidijs.org/) 🔊 - A JavaScript helper library for the Web MIDI API.
-- [MIDI.JS](https://github.com/mudcube/MIDI.js) 🔊 - A JavaScript MIDI player and sequencer that uses the Web Audio API for low-latency sound generation.
-- [Tonejs MIDI](https://github.com/Tonejs/Midi) 🔊 - A JavaScript library to read and write MIDI files.
-- [music21j](https://github.com/cuthbertLab/music21j) 🎷 - A JavaScript port of the music21 Python library that allows developers to work with musical notation and MIDI data in the browser.
-- [MIDI Tools](https://github.com/chen9788/midi-tools) 🔊 - A standalone MIDI file parser, Web Audio instrument presets, and note reference data, used by mp3frommidi.com.
-
-## Other Related Lists
+# Other Related Lists
 
 - [Awesome Music](https://github.com/ciconia/awesome-music) 🔊 - A curated list of awesome music software, libraries, and books.
 
-## Contributions
+---
 
-Contributions are welcome! If you wish to contribute to this list, please read the [contribution guidelines](https://github.com/bgoonz/awesome-midi#contributions) first.
+# Contributions
 
-## License
+Contributions are welcome! If you wish to contribute to this list, please read the contribution guidelines first.
+
+---
+
+# License
 
 This work is licensed under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication.
